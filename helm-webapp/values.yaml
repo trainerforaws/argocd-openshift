@@ -6,5 +6,5 @@ configmap:
     CUSTOM_HEADER: 'This app was deployed with helm!'
 
 image:
-  name: rahulradhakrishnan24/webapp-open
-  tag: latest
+  name: eyesoncloud/webapp
+  tag: 47
