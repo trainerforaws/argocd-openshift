@@ -3,7 +3,7 @@ appName: myhelmapp
 configmap:
   name: myhelmapp-configmap-v1
   data:
-    CUSTOM_HEADER: 'This app was deployed with helm!'
+    CUSTOM_HEADER: 'Welcome to NGINX on ROSA!'
 
 image:
   name: eyesoncloud/webapp
