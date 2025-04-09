@@ -6,5 +6,5 @@ configmap:
     CUSTOM_HEADER: 'Welcome to NGINX on ROSA!'
 
 image:
-  name: eyesoncloud/webapp
-  tag: 47
+  name: rahulradhakrishnan24/webapp
+  tag: latest
